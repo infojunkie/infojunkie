@@ -2,9 +2,9 @@ Hello! :wave:
 
 My name is Karim Ratib. I consider myself a software "craftsman", i.e. programmer, architect, tinkerer, learner, speculator, etc.
 
-I'm also a lifelong music fan, learner and player. This will often show up on this blog as well.
+I'm also a lifelong music fan, learner and player. This will often show up on in my repos as well.
 
-<div style="border: 1px sold grey;">
+<div style="border: 1px solid grey;">
 
 I'm currently available for hire as a software consultant. I do well with the following:
 - Designing systems, from proof of concepts to scalable cloud deployments
