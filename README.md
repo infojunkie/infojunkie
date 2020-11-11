@@ -14,8 +14,8 @@ I'm currently available for hire as a software consultant. I do well with the fo
 
 I am best motivated when applying these skills to domains that interest me:
 - Music and multimedia
-- Social development
-- Education and learning
+- Social development and civic engagement
+- Education and culture
 
 [Contact me via email](mailto:karim.ratib@gmail.com) if you are interested - looking forward to hear from you!
 
