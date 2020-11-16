@@ -6,7 +6,7 @@ I'm also a lifelong music fan, learner and player. This will often show up on in
 
 <div style="border: 1px solid grey;">
 
-<em>I'm currently available for hire as a software consultant</em>. I do well with the following:
+<b>I'm currently available for hire as a software consultant</b>. I do well with the following:
 - Designing systems, from proof of concepts to scalable cloud deployments
 - Leading and growing small, remote development teams using simple processes and tools
 - Deep-diving into conceptual problems and learning to apply the state of the art to produce innovative solutions
