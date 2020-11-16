@@ -7,9 +7,10 @@ I'm also a lifelong music fan, learner and player. This will often show up on in
 <div style="border: 1px solid grey;">
 
 <b>I'm currently available for hire as a software consultant</b>. I do well with the following:
-- Designing systems, from proof of concepts to scalable cloud deployments
+- Designing systems, from proof of concepts to production deployments
 - Leading and growing small, remote development teams using simple processes and tools
 - Deep-diving into conceptual problems and learning to apply the state of the art to produce innovative solutions
+- Analyzing designs and implementations from a software engineering point of view: consistency, maintainability, scalability, etc.  
 - Using open source Web technologies on the backend and frontend
 
 I am best motivated when applying these skills to domains that interest me:
