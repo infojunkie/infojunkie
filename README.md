@@ -22,7 +22,7 @@ I am best motivated when applying these skills to domains that interest me:
 
 </div>
 
-Until recently, I led a fantastic team of programmers at a [great, small organization called Meedan](https://meedan.com). We worked on collaborative annotation systems for social media, notably applied to fact-checking. [We open sourced all our code](https://github.com/meedan).
+Until recently, and for 9 years, I led a fantastic team of programmers at a [great, small organization called Meedan](https://meedan.com). We worked on collaborative annotation systems for social media, notably applied to fact-checking. [We open sourced all our code](https://github.com/meedan).
 
 Before Meedan, I used to offer my [services as a Drupal programmer](http://thereisamoduleforthat.com). It was fun for many years.
 
