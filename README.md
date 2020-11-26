@@ -14,9 +14,9 @@ I'm also a lifelong music fan, learner and player. This will often show up on in
 - Using open source Web technologies on the backend and frontend
 
 I am best motivated when applying these skills to domains that interest me:
-- Music and multimedia
+- Music and multimedia technologies
 - Social development and civic engagement
-- Education and culture
+- Education, arts and culture
 
 [Contact me via email](mailto:karim.ratib@gmail.com) if you are interested - looking forward to hear from you!
 
