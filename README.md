@@ -2,7 +2,7 @@ Hello! :wave:
 
 My name is Karim Ratib. I consider myself a software "craftsman", combining professional programmer, architect, tinkerer, learner, speculator, etc.
 
-I'm also a lifelong music fan, learner and player. This will often show up on in my repos as well.
+I'm also a lifelong music fan, learner and player. This will often show up in my repos.
 
 <div style="border: 1px solid grey;">
 
