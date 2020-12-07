@@ -12,6 +12,7 @@ I'm also a lifelong music fan, learner and player. This will often show up in my
 - Deep-diving into conceptual problems and learning to apply the state of the art to produce innovative solutions
 - Analyzing designs and implementations from a software engineering point of view: consistency, maintainability, scalability, etc.  
 - Using open source Web technologies on the backend and frontend
+- Participating in community groups around open standards and protocols
 
 I am best motivated when applying these skills to domains that interest me:
 - Music and multimedia technologies
