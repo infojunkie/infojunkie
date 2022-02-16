@@ -6,7 +6,7 @@ I'm also a lifelong music fan, learner and player. This will often show up in my
 
 <div style="border: 1px solid grey;">
 
-  <b>If you've got some interesting music app projects, I'd love to hear from you!</b> I have good experience (including professional contracts) with Web Audio, Web MIDI, MusicXML, and lots of music theory. You can [check my music demos here](https://blog.karimratib.me/demos/).  
+  <b>If you've got some interesting music app projects, I'd love to hear from you!</b> I have good experience (including professional work) with Web Audio, Web MIDI, MusicXML, and lots of music theory. You can [check my music demos here](https://blog.karimratib.me/demos/).  
 
 </div>
 
