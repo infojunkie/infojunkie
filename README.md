@@ -4,17 +4,17 @@ My name is Karim Ratib. I consider myself a software "craftsman", combining prof
 
 I'm also a lifelong music fan, learner and player. This will often show up in my repos.
 
+I'm currently working as a software engineering contractor, with the Internet Archive and the Government of British Columbia among others.
+
 <div style="border: 1px solid grey;">
 
   <b>If you've got some interesting music app projects, I'd love to hear from you!</b> I have good experience (including professional work) with Web Audio, Web MIDI, MusicXML, and lots of music theory. You can [check my music demos here](https://blog.karimratib.me/demos/).  
 
 </div>
 
-I'm currently part of the incredible project that is the Internet Archive, mostly working on the [Wayback Machine](https://web.archive.org/). 
-
 Until 2020, and for ~10 years, I led a fantastic team of programmers at a [great, small organization called Meedan](https://meedan.com). We worked on collaborative annotation systems for social media, notably applied to fact-checking. [We open sourced all our code](https://github.com/meedan).
 
-Before Meedan, we get into archeology - thanks to Internet Archive for preserving my sites :raised_hands: 
+Before Meedan, we get into archeology - thanks to Wayback Machine for preserving my sites :raised_hands: 
 - I offered my [services as a Drupal programmer](https://web.archive.org/web/20150511035727/http://thereisamoduleforthat.com/). It was fun for many years :partying_face:
 - I maintained a [blog called "Confessions of an information junkie"](https://web.archive.org/web/20181029071954/http://infojunkie.karimratib.me/). Lots of half-baked ideas in this one :joy:
 - I co-founded a software services company in Egypt called [OpenCraft](https://web.archive.org/web/20170422101115/http://www.open-craft.com/). We made lifelong friendships there :hugs:
