@@ -6,11 +6,7 @@ I'm also a lifelong music fan, learner and player. This will often show up in my
 
 I'm currently working as a software engineering contractor, with the Internet Archive and the Government of British Columbia among others.
 
-<div style="border: 1px solid grey;">
-
-  <b>If you've got some interesting music app projects, I'd love to hear from you!</b> I have good experience (including professional work) with Web Audio, Web MIDI, MusicXML, and lots of music theory. You can [check my music demos here](https://blog.karimratib.me/demos/).  
-
-</div>
+<b>If you've got some interesting music app projects, I'd love to hear from you!</b> I have good experience (including professional work) with Web Audio, Web MIDI, MusicXML, and lots of music theory. You can [check my music demos here](https://blog.karimratib.me/demos/).  
 
 Until 2020, and for ~10 years, I led a fantastic team of programmers at a [great, small organization called Meedan](https://meedan.com). We worked on collaborative annotation systems for social media, notably applied to fact-checking. [We open sourced all our code](https://github.com/meedan).
 
