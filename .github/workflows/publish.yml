@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Trigger blog publish
-      uses: uses: fjogeleit/http-request-action@v1.9.1
+      uses: fjogeleit/http-request-action@v1.9.1
       with:
         url: https://api.github.com/repos/infojunkie/blog/dispatches
         customHeaders: '{ "Authorization": "Bearer ${{ secrets.TOKEN }}" }'
