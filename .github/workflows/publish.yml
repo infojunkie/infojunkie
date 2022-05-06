@@ -1,0 +1,18 @@
+name: Publish
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Trigger blog publish
+      uses: uses: fjogeleit/http-request-action@v1.9.1
+      with:
+        url: https://api.github.com/repos/infojunkie/blog/dispatches
+        customHeaders: '{ "Authorization": "Bearer ${{ secrets.TOKEN }}" }'
+        data: '{ "event_type": "hello" }'
