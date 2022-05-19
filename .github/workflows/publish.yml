@@ -15,4 +15,4 @@ jobs:
       with:
         url: https://api.github.com/repos/infojunkie/blog/dispatches
         customHeaders: '{ "Authorization": "Bearer ${{ secrets.TOKEN }}" }'
-        data: '{ "event_type": "hello" }'
+        data: '{ "event_type": "Profile" }'
