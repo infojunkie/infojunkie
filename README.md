@@ -15,4 +15,4 @@ Before Meedan, we get into archeology - thanks to Wayback Machine for preserving
 - I maintained a [blog called "Confessions of an information junkie"](https://web.archive.org/web/20181029071954/http://infojunkie.karimratib.me/). Lots of half-baked ideas in this one :joy:
 - I co-founded a software services company in Egypt called [OpenCraft](https://web.archive.org/web/20170422101115/http://www.open-craft.com/). We made lifelong friendships there :hugs:
 - I obtained my [M.Sc. in Computer Science at Université de Montréal](https://web.archive.org/web/20021005070730/http://www.iro.umontreal.ca/~ratib/). That was my first website! :baby:
-- In the [first company I joined](https://www.itworx.com/) (as employee # 1 or 2) I wrote code for Corel MotionStudio 3D, Adobe Illustrator, Microsoft Outlook, among many others.
+- At [ITWorx, the first company I joined](https://www.itworx.com/) (as employee # 1 or 2) I wrote code for Corel MotionStudio 3D, Adobe Illustrator, Microsoft Outlook, among many others.
