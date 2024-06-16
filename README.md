@@ -4,7 +4,7 @@ My name is Karim Ratib. I consider myself a software "craftsman", combining prof
 
 I'm also a lifelong music fan, learner and player. This will often show up in my repos.
 
-I'm currently working as a software engineering contractor, with the [Internet Archive](https://web.archive.org) and the [Government of British Columbia](https://workbc.ca) among others.
+I'm currently working as a solution architect with the [Government of British Columbia](https://workbc.ca) among others. I am also offering [Drupal consulting services](https://thereisamoduleforthat.com/) through my own business.
 
 <b>If you've got some interesting music app projects, I'd love to hear from you!</b> I have good experience (including professional work) with Web Audio, Web MIDI, MusicXML, and lots of music theory. You can [check my music demos here](https://blog.karimratib.me/demos/).
 
