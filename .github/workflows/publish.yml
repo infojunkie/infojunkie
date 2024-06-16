@@ -16,3 +16,9 @@ jobs:
         url: https://api.github.com/repos/infojunkie/blog/dispatches
         customHeaders: '{ "Authorization": "Bearer ${{ secrets.TOKEN }}" }'
         data: '{ "event_type": "Profile" }'
+    - name: Trigger tmft publish
+      uses: fjogeleit/http-request-action@v1.15.5
+      with:
+        url: https://api.github.com/repos/infojunkie/thereisamoduleforthat/dispatches
+        customHeaders: '{ "Authorization": "Bearer ${{ secrets.TOKEN }}" }'
+        data: '{ "event_type": "Profile" }'
